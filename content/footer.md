@@ -1,1 +1,1 @@
-Edit three files: header.md, content.md and footer.md. When you're done, copy to the /content directory.
+Edit three files in the content directory to customize your own content (header.md, content.md and footer.md). More info at the [Github project](https://www.github.com/lawrips/simplcv)
