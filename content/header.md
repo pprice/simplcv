@@ -2,8 +2,8 @@
 
 <a class="noimage" href="https://www.linkedin.com/in/phil-price-816b745">LinkedIn</a>
 <a class="nohighlight" href="https://www.linkedin.com/in/phil-price-816b745"><img alt="LinkedIn" src="/public/img/linkedin.png" width="32px" /></a>
-<a class="noimage" href="https://www.philprice.me/phil-price-resume.pdf">Resume</a>
-<a class="nohighlight" href="https://www.philprice.me/phil-price-resume.pdf"><img alt="Email" src="/public/img/resume.png" width="32px" /></a>
+<a class="noimage" href="https://www.philprice.me/data/phil-price-resume.pdf">Resume</a>
+<a class="nohighlight" href="https://www.philprice.me/data/phil-price-resume.pdf"><img alt="Email" src="/public/img/resume.png" width="32px" /></a>
 <a class="noimage" href="https://github.com/pprice">Github</a>
 <a class="nohighlight" href="https://github.com/pprice"><img alt="Github" src="/public/img/github.png" width="32px" /></a>
 <a class="noimage" href="mailto:philprice@gmail.com">Email</a>
