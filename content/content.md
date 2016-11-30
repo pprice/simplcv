@@ -1,6 +1,7 @@
-This is the main section.
+I'm from England, graduated from University of Hull in 2005 and worked for 10 years in software. I proudly worked on Visual Studio.
 
-Say something about yourself in a few sentences. You don't have much space, so make it count. 
+I express myself creatively through illustration and code. I frequently lose myself in making stuff. My perfect Sunday consists of beers, football, hanging out and making something cool.
 
-You might want to include something like "my friends would describe me as ...". Or "I find beauty and inspiration in ...". Or "I'm driven by a desire to improve ...". Or "I'm best known my ability to ...".  
+The most important lesson I've learned is to be patient and I'm inspired by people who care for others. I dream of a world where everyone respects the differences in each other.
 
+I live in Seattle with my wife, and the next door neighbours cat, Charlie.
