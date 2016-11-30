@@ -1,6 +1,4 @@
-# A SimplCV site
-
-<!-- Here are some sample links. Change these to reflect your own content --> 
+# Phil Price
 
 <a class="noimage" href="https://www.linkedin.com/in/phil-price-816b745">LinkedIn</a>
 <a class="nohighlight" href="https://www.linkedin.com/in/phil-price-816b745"><img alt="LinkedIn" src="/public/img/linkedin.png" width="32px" /></a>
