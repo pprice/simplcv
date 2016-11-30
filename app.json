@@ -1,6 +1,6 @@
 {
-    "name": "SimplCV",
-    "description": "A barebones SimplCV site",
-    "repository": "https://github.com/lawrips/simplcv/tree/add-to-heroku",
+    "name": "Phil Price",
+    "description": "Software dude",
+    "repository": "https://github.com/pprice",
     "keywords": ["node", "simplcv", "resume", "cv"]
 }
